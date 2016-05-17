@@ -1,0 +1,4 @@
+function []=test(arg1,arg2)
+	str2num(arg1)+str2num(arg2)
+	exit;
+end
